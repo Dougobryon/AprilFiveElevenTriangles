@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilFiveElevenTriangles\AprilFiveElevenTriangles\bin\Debug\AprilFiveElevenTriangles.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilFiveElevenTriangles\AprilFiveElevenTriangles\bin\Debug\AprilFiveElevenTriangles.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilFiveElevenTriangles\AprilFiveElevenTriangles\bin\Debug\AprilFiveElevenTriangles.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilFiveElevenTriangles\AprilFiveElevenTriangles\obj\Debug\AprilFiveElevenTriangles.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilFiveElevenTriangles\AprilFiveElevenTriangles\obj\Debug\AprilFiveElevenTriangles.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilFiveElevenTriangles\AprilFiveElevenTriangles\obj\Debug\AprilFiveElevenTriangles.csprojResolveAssemblyReference.cache
